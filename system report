@@ -1,0 +1,330 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://meditateinadelaide.org
+Site address (URL): https://meditateinadelaide.org
+WC Version: 8.6.0
+REST API Version: ✔ 8.6.0
+WC Blocks Version: ✔ 11.8.0-dev
+Action Scheduler Version: ✔ 3.7.1
+Log Directory Writable: ✔
+WP Version: 6.4.3
+WP Multisite: –
+WP Memory Limit: 768 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_AU
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 7.4.33
+PHP Post Max Size: 256 MB
+PHP Time Limit: 120
+PHP Max Input Vars: 3000
+cURL Version: 8.2.1
+OpenSSL/3.1.1
+
+SUHOSIN Installed: –
+MySQL Version: 5.7.44-48-log
+Max Upload Size: 256 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 8.5.2
+WC Database Prefix: wp_
+Total Database Size: 220.09MB
+Database Data Size: 127.69MB
+Database Index Size: 92.40MB
+wp_woocommerce_sessions: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_api_keys: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_attribute_taxonomies: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_downloadable_product_permissions: Data: 0.19MB + Index: 0.31MB + Engine InnoDB
+wp_woocommerce_order_items: Data: 0.25MB + Index: 0.08MB + Engine InnoDB
+wp_woocommerce_order_itemmeta: Data: 2.52MB + Index: 1.95MB + Engine InnoDB
+wp_woocommerce_tax_rates: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wp_woocommerce_tax_rate_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_woocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_actions: Data: 32.14MB + Index: 79.31MB + Engine InnoDB
+wp_actionscheduler_claims: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_groups: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_actionscheduler_logs: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_cartflows_ca_cart_abandonment: Data: 1.52MB + Index: 0.06MB + Engine InnoDB
+wp_cartflows_ca_email_history: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_cartflows_ca_email_templates: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_cartflows_ca_email_templates_meta: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_commentmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_comments: Data: 1.52MB + Index: 0.77MB + Engine InnoDB
+wp_e_events: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_e_notes: Data: 0.02MB + Index: 0.17MB + Engine InnoDB
+wp_e_notes_users_relations: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wp_e_submissions: Data: 0.02MB + Index: 0.27MB + Engine InnoDB
+wp_e_submissions_actions_log: Data: 0.02MB + Index: 0.11MB + Engine InnoDB
+wp_e_submissions_values: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_links: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_mec_attendees: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_mec_bookings: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wp_mec_dates: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wp_mec_events: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wp_mec_occurrences: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_mec_users: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_ms_snippets: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_actions: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_action_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_chunks: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_fields: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_field_meta: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_forms: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_form_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_objects: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_object_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_relationships: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_nf3_upgrades: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+wp_options: Data: 31.06MB + Index: 0.13MB + Engine InnoDB
+wp_pmxe_exports: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_pmxe_google_cats: Data: 0.38MB + Index: 0.00MB + Engine InnoDB
+wp_pmxe_posts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_pmxe_templates: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_postmeta: Data: 39.55MB + Index: 6.03MB + Engine InnoDB
+wp_posts: Data: 14.52MB + Index: 0.78MB + Engine InnoDB
+wp_rank_math_404_logs: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_rank_math_analytics_objects: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_rank_math_internal_links: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_rank_math_internal_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_rank_math_redirections: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_rank_math_redirections_cache: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_snippets: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_spbtbl: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_termmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_terms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_term_relationships: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_term_taxonomy: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_usermeta: Data: 1.52MB + Index: 0.50MB + Engine InnoDB
+wp_users: Data: 0.08MB + Index: 0.05MB + Engine InnoDB
+wp_wcepp_messages: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wp_wc_admin_notes: Data: 0.08MB + Index: 0.00MB + Engine InnoDB
+wp_wc_admin_note_actions: Data: 0.08MB + Index: 0.02MB + Engine InnoDB
+wp_wc_category_lookup: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wc_customer_lookup: Data: 0.09MB + Index: 0.06MB + Engine InnoDB
+wp_wc_download_log: Data: 0.09MB + Index: 0.09MB + Engine InnoDB
+wp_wc_order_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_wc_order_product_lookup: Data: 0.27MB + Index: 0.25MB + Engine InnoDB
+wp_wc_order_stats: Data: 0.31MB + Index: 0.23MB + Engine InnoDB
+wp_wc_order_tax_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wp_wc_product_attributes_lookup: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_product_download_directories: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_product_meta_lookup: Data: 0.06MB + Index: 0.09MB + Engine InnoDB
+wp_wc_rate_limits: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_reserved_stock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_wc_tax_rate_classes: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_wc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wp_woocommerce_square_customers: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woo_square_integration_deleted_data: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wp_woo_square_integration_logs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 303
+custom_css: 2
+elementor_library: 21
+elementor-hf: 1
+nav_menu_item: 17
+nf_sub: 214
+oembed_cache: 10
+page: 33
+post: 5
+product: 19
+product_variation: 34
+revision: 4523
+shop_coupon: 1
+shop_order: 2494
+shop_order_refund: 25
+woocustomemails: 4
+wp_easy_pay: 1
+wp_global_styles: 1
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (27) ###
+
+Starter Templates: by Brainstorm Force – 4.0.12
+Astra Widgets: by Brainstorm Force – 1.2.12
+Change Mail Sender: by WP Mail SMTP – 1.3.0
+Code Snippets: by Code Snippets Pro – 3.6.2
+Elementor Pro: by Elementor.com – 3.19.2
+Elementor: by Elementor.com – 3.19.2
+HandMade WooCommerce Order Status Control: by HandMade Connections – 1.4
+Elementor Header & Footer Builder: by Brainstorm Force
+Nikhil Chavan – 1.6.25
+
+Modern Events Calendar Lite: by Webnus – 6.5.5
+Ninja Forms: by Saturday Drive – 3.7.3
+CF Page or Post Duplicator: by Carlos Fazenda – 6.0
+Custom Thank You Page For WooCommerce: by StoreApps – 1.4.3
+Rank Math SEO: by Rank Math – 1.0.212.1
+Speed Optimizer: by SiteGround – 7.4.6
+Superb WordPress Table (SEO Optimized Tables With Schema): by SuPlugins – 1.1.4
+Two Messenger Pro: by Carsondeqy – 5.4.4
+UpdraftPlus - Backup/Restore: by UpdraftPlus.com
+DavidAnderson – 1.23.16
+
+Velvet Blues Update URLs: by VelvetBlues.com – 3.2.10
+W3 Total Cache: by BoldGrid – 2.6.1
+Product Customer List for WooCommerce: by Kokomo – 3.1.6
+WooCommerce Cart Abandonment Recovery: by CartFlows Inc – 1.2.26
+Checkout Field Editor for WooCommerce: by ThemeHigh – 2.0.1
+Woo Custom Emails Per Product: by Alex Mustin – 2.2.9
+WooCommerce Eway Payment Gateway: by Eway – 3.7.2
+WooCommerce Square: by WooCommerce – 4.5.0
+WooCommerce: by Automattic – 8.6.0
+WP All Export: by Soflyy – 1.4.1
+
+### Inactive Plugins (1) ###
+
+WooPayments: by Automattic – 7.2.0
+
+### Dropin Plugins (1) ###
+
+advanced-cache.php: advanced-cache.php
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: AUD ($)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to Woo.com: ✔
+Enforce Approved Product Download Directories: –
+HPOS feature screen enabled: –
+HPOS feature enabled: –
+Order datastore: WC_Order_Data_Store_CPT
+HPOS data sync enabled: –
+
+### WC Pages ###
+
+Shop base: #19 - /upcoming-live-streams/
+Cart: #23 - /cart/
+Checkout: #25 - /checkout/
+My account: #27 - /my-account/
+Terms and conditions: #29 - /terms-conditions/
+
+### Theme ###
+
+Name: Astra
+Version: 3.2.0 (update to version 4.6.5 is available)
+Author URL: https://wpastra.com/about/
+Child Theme: ❌ – If you are modifying WooCommerce on a parent theme that you did not build
+personally we recommend using a child theme. See: How to create a child theme
+
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: –
+
+### Square ###
+
+Environment: Production
+Tokenization Enabled: –
+Debug Mode: Off
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+product-linked
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: customize-store
+minified-js
+new-product-management-experience
+product-pre-publish-modal
+settings
+async-product-editor-category-field
+
+Daily Cron: ✔ Next scheduled: 2024-02-20 11:59:37 +09:30
+Options: ✔
+Notes: 197
+Onboarding: completed
+
+### Action Scheduler ###
+
+Complete: 7,074
+Oldest: 2024-02-11 10:45:48 +0000
+Newest: 2024-02-20 03:04:52 +0000
+
+Failed: 3
+Oldest: 2024-02-11 10:45:48 +0000
+Newest: 2024-02-19 06:07:25 +0000
+
+Pending: 6,786
+Oldest: 2024-02-20 03:04:39 +0000
+Newest: 2024-02-26 23:51:01 +0000
+
+
+### Status report information ###
+
+Generated at: 2024-02-20 12:34:52 +09:30
+`
